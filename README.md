@@ -92,7 +92,7 @@ Security was a primary focus for this project.
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/sc257534/Appointment-Booking-Scheduler.git](https://github.com/your-username/Appointment-Booking-Scheduler.git)
+    git clone [https://github.com/sc257534/Appointment-Booking-Scheduler.git](https://github.com/sc257534/Appointment-Booking-Scheduler.git)
     cd Appointment-Booking-Scheduler
     ```
 

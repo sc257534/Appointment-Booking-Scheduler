@@ -9,9 +9,12 @@ The application is built with a strong emphasis on security, implementing measur
 ## 📸 Screenshots
 
 
-Login Page : <img width="1918" height="926" alt="image" src="https://github.com/user-attachments/assets/d98c9afa-9bac-45bf-b501-445601246791" />
-Admin Dashboard: <img width="1919" height="925" alt="image" src="https://github.com/user-attachments/assets/afbc9f3a-c008-41d1-9c4b-4aca6a514bb7" />
-User Dashboard: <img width="1895" height="929" alt="image" src="https://github.com/user-attachments/assets/ef86260b-aaa2-4218-9baa-4cda0d8ede34" />
+Login Page : <img width="1918" height="926" alt="Screenshot 2025-10-19 180248" src="https://github.com/user-attachments/assets/8768a429-ae22-45d9-b805-ef6812d83905" />
+
+Admin Dashboard: <img width="1919" height="925" alt="Screenshot 2025-10-19 180400" src="https://github.com/user-attachments/assets/693df5ec-9057-4e91-af8e-5eeb34ada5a1" />
+
+User Dashboard: <img width="1895" height="929" alt="Screenshot 2025-10-19 180451" src="https://github.com/user-attachments/assets/4001c2d8-a032-4f8a-a445-b6e7a7e8a348" />
+
 
 
 -   -   -   
